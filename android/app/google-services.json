@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "586163427224",
+    "project_id": "theppu-final",
+    "storage_bucket": "theppu-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586163427224:android:ff42dcdc6b4fd84f59fded",
+        "android_client_info": {
+          "package_name": "com.example.theppu_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586163427224-rlj79qa89eev6631u7i7h78clbnv0ktg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhMOkqZhsWrobPiYkfCT-ugwyWZTz5SXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "586163427224-rlj79qa89eev6631u7i7h78clbnv0ktg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
